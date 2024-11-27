@@ -16,7 +16,7 @@
 
   ###  🔭 Hi I’m - Md Abu Said.
   ###  🚀 About Me : 
-  ###  🌱 I'am a - Student At Computer Science And Engineering
+  ###  🌱 I'am a - Student Of Computer Science And Engineering
   ###  🤔 I’m trying - To Learn MERN Stack Development.
   ###  📫 How to reach me - mdabusaid7068@gmail.com
   ###  ⚡ Fun fact - 
