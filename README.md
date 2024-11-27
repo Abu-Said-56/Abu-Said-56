@@ -14,10 +14,10 @@
 
 # 👀 Current overview
 
-  ###  🔭 I’m working - At Student
-  ###  🌱 I’m exploring - Advance motion graphics for web.
-  ###  👯 I’m looking - To collaborate on open source projects.
-  ###  🤔 I’m trying - To help people learn web development.
-  ###  ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
-
+  ###  🔭 Hi I’m - Md Abu Said.
+  ###  🚀 About Me : 
+  ###  🌱 I'am a - Student At Computer Science And Engineering
+  ###  🤔 I’m trying - To Learn MERN Stack Development.
+  ###  📫 How to reach me - mdabusaid7068@gmail.com
+  ###  ⚡ Fun fact - 
   
