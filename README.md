@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 
-### Hi there 👋, my name is Abu Siad
+👋 my name is Abu Siad
 #### Web Developer
 I am passionate and dedicated MERN Stack Web Developer, I am currently pursuing my second year in Computer Science at NITER (Dhaka University Technology Unit). With a strong foundation in both frontend and backend development, I specialize in creating dynamic and responsive web applications.
 
