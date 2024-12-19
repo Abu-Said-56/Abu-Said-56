@@ -2,20 +2,19 @@
 ![Web Developer](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ## Hi there 👋
 
-
-👋 my name is Abu Siad
+  I am Abu Siad
+- 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSc in CSE 
+- 🌱 I’m currently learning MERN Stake Web Development 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: mdabusaid7068@gmail.com
+- 
 #### Web Developer
 I am passionate and dedicated MERN Stack Web Developer, I am currently pursuing my second year in Computer Science at NITER (Dhaka University Technology Unit). With a strong foundation in both frontend and backend development, I specialize in creating dynamic and responsive web applications.
 
 On the frontend side, I have experience working with HTML, CSS, Tailwind CSS, JavaScript, and React.js , enabling me to design and implement visually appealing and user-friendly interfaces. For backend development, I am proficient in Express.js , Node.js , and MongoDB, which allow me to build scalable and efficient server-side applications.
 
 Skills:  React.js / Tailwind CSS /  Express.js  / Node.js / MongoDB
-
-- 🔭 I’m currently working on Studying at NITER BSc in CSE 
-- 🌱 I’m currently learning MERN Stake Web Development 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: mdabusaid7068@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Abu-Said-56)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abusaid1756//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/AbuSaid1756)  
