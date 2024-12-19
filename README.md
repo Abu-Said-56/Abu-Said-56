@@ -6,7 +6,7 @@
 - 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSc in CSE 
 - 🌱 I’m currently learning MERN Stake Web Development 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Front-End Web Development 
 - 📫 How to reach me: mdabusaid7068@gmail.com
 
 ### Web Developer
