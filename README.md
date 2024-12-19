@@ -2,7 +2,7 @@
 ![Web Developer](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ## Hi there 👋
 
-  I am Abu Siad
+ ## I am Abu Siad
 - 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSc in CSE 
 - 🌱 I’m currently learning MERN Stake Web Development 
 - 👯 I’m looking to collaborate on GitHub 
