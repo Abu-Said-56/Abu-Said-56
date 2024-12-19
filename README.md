@@ -1,11 +1,11 @@
+
+![Web Developer](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ## Hi there 👋
 
 
 ### Hi there 👋, my name is Abu Siad
 #### Web Developer
-![Web Developer](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
-
-Hi,, I am passionate and dedicated MERN Stack Web Developer, I am currently pursuing my second year in Computer Science at NITER (Dhaka University Technology Unit). With a strong foundation in both frontend and backend development, I specialize in creating dynamic and responsive web applications.
+I am passionate and dedicated MERN Stack Web Developer, I am currently pursuing my second year in Computer Science at NITER (Dhaka University Technology Unit). With a strong foundation in both frontend and backend development, I specialize in creating dynamic and responsive web applications.
 
 On the frontend side, I have experience working with HTML, CSS, Tailwind CSS, JavaScript, and React.js , enabling me to design and implement visually appealing and user-friendly interfaces. For backend development, I am proficient in Express.js , Node.js , and MongoDB, which allow me to build scalable and efficient server-side applications.
 
