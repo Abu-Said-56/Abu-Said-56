@@ -11,7 +11,7 @@ On the frontend side, I have experience working with HTML, CSS, Tailwind CSS, Ja
 
 Skills:  React.js / Tailwind CSS /  Express.js  / Node.js / MongoDB
 
-- 🔭 I’m currently working on Studying at NITER BSe in CSE 
+- 🔭 I’m currently working on Studying at NITER BSc in CSE 
 - 🌱 I’m currently learning MERN Stake Web Development 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
